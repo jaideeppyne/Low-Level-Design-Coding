@@ -1,0 +1,9 @@
+This question is asked in Directi(Zeta) LLD round with 1+ years of experience.
+
+Design a vending machine which has multiple items like "coke", "soda", "pepsi".
+1. Each item has a given price and the count of that item.
+2. List of all items present in the inventory with price of each are given.
+
+Requirements:
+1. Display all items present in the inventory and their prices.
+2. If a customer requests for an items hold a transaction for that. Reduce the count of the item and update the customer with the extra amount paid on a successful transaction.
